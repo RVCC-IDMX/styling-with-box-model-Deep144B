@@ -7,8 +7,9 @@
 
   .box-one {
     background-color: red;
-    border: 20px solid purple;
+    border: 0px solid purple;
     padding: 20px;
+    border-width: 20px;
     margin: 20px;
   }
 
